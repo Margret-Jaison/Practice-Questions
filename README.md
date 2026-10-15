@@ -1,2 +1,2 @@
 # Practice-Questions
-Preactice Exercise of Python-Playwright Automation
+Practice Exercise of Python-Playwright Automation
