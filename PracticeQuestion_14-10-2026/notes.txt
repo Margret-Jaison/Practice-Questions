@@ -1,0 +1,7 @@
+Hello, Welcome to playwright tutorial.
+First we will go through python basics.
+Then we will go through python advancept concept.
+Fianlly in Playwright with python.
+After that there will be assessment.
+
+This is the sixth line.
